@@ -1,0 +1,51 @@
+transaction_id,full_date,product_sku,product_name,category,customer_id,customer_name,segment,region_name,country,quantity,unit_price
+TXN-82bdb4da3f,2026-10-03,SKU-003,Safety Gloves,PPE,CUST-002,Vale Industrial Supplies,Corporate,South East,United Kingdom,18,6.03
+TXN-48d4bd6ff5,2026-10-13,SKU-001,Steel Widget,Hardware,CUST-001,Northgate Manufacturing,Corporate,South East,United Kingdom,7,11.4
+TXN-b8ff10ec73,2026-10-11,SKU-003,Safety Gloves,PPE,CUST-003,Fenwick Builders,Consumer,North West,United Kingdom,16,6.8
+TXN-8c6eddff22,2026-10-05,SKU-003,Safety Gloves,PPE,CUST-002,Vale Industrial Supplies,Corporate,North West,United Kingdom,10,6.43
+TXN-081562cdaa,2026-10-12,SKU-002,Copper Fitting,Hardware,CUST-002,Vale Industrial Supplies,Corporate,Midlands,United Kingdom,9,9.36
+TXN-6de1f0408a,2026-10-03,SKU-003,Safety Gloves,PPE,CUST-004,Ashcroft Engineering,Corporate,North West,United Kingdom,1,6.6
+TXN-cf5b1d0454,2026-10-11,SKU-001,Steel Widget,Hardware,CUST-001,Northgate Manufacturing,Corporate,North West,United Kingdom,14,11.49
+TXN-06627658ec,2026-10-10,SKU-002,Copper Fitting,Hardware,CUST-003,Fenwick Builders,Consumer,Midlands,United Kingdom,14,8.75
+TXN-55884bf943,2026-10-07,SKU-002,Copper Fitting,Hardware,CUST-002,Vale Industrial Supplies,Corporate,North West,United Kingdom,15,9.53
+TXN-6f15c3c42f,2026-10-02,SKU-001,Steel Widget,Hardware,CUST-001,Northgate Manufacturing,Corporate,North West,United Kingdom,8,11.67
+TXN-f6c4975e87,2026-09-30,SKU-005,Conveyor Belt,Machinery,CUST-004,Ashcroft Engineering,Corporate,South East,United Kingdom,5,314.58
+TXN-d77518dadd,2026-10-11,SKU-001,Steel Widget,Hardware,CUST-003,Fenwick Builders,Consumer,South East,United Kingdom,6,11.91
+TXN-83a93f31aa,2026-10-13,SKU-005,Conveyor Belt,Machinery,CUST-004,Ashcroft Engineering,Corporate,North West,United Kingdom,20,347.06
+TXN-0866c1124a,2026-10-02,SKU-005,Conveyor Belt,Machinery,CUST-002,Vale Industrial Supplies,Corporate,Midlands,United Kingdom,6,340.86
+TXN-03688fd53c,2026-10-05,SKU-001,Steel Widget,Hardware,CUST-001,Northgate Manufacturing,Corporate,Midlands,United Kingdom,18,12.42
+TXN-a2c6330461,2026-10-13,SKU-004,Hard Hat,PPE,CUST-003,Fenwick Builders,Consumer,South East,United Kingdom,13,13.76
+TXN-dcdbc6cb56,2026-10-06,SKU-002,Copper Fitting,Hardware,CUST-004,Ashcroft Engineering,Corporate,North West,United Kingdom,10,8.77
+TXN-65ee8a6cae,2026-09-30,SKU-005,Conveyor Belt,Machinery,CUST-003,Fenwick Builders,Consumer,Midlands,United Kingdom,19,370.28
+TXN-3a543144c8,2026-10-10,SKU-005,Conveyor Belt,Machinery,CUST-002,Vale Industrial Supplies,Corporate,Midlands,United Kingdom,13,320.69
+TXN-6d5934b6b0,2026-10-09,SKU-004,Hard Hat,PPE,CUST-002,Vale Industrial Supplies,Corporate,South East,United Kingdom,11,14.51
+TXN-1d1867e6ab,2026-10-04,SKU-004,Hard Hat,PPE,CUST-001,Northgate Manufacturing,Corporate,Midlands,United Kingdom,20,15.08
+TXN-1eafa7912a,2026-10-10,SKU-001,Steel Widget,Hardware,CUST-001,Northgate Manufacturing,Corporate,South East,United Kingdom,4,11.92
+TXN-350400ab01,2026-10-04,SKU-001,Steel Widget,Hardware,CUST-003,Fenwick Builders,Consumer,Midlands,United Kingdom,17,12.58
+TXN-76e780488b,2026-10-07,SKU-004,Hard Hat,PPE,CUST-003,Fenwick Builders,Consumer,Midlands,United Kingdom,8,13.07
+TXN-ad719dbdad,2026-10-05,SKU-003,Safety Gloves,PPE,CUST-004,Ashcroft Engineering,Corporate,North West,United Kingdom,14,6.32
+TXN-696cb3dd21,2026-10-12,SKU-005,Conveyor Belt,Machinery,CUST-002,Vale Industrial Supplies,Corporate,South East,United Kingdom,15,328.06
+TXN-75b1d9b9a7,2026-10-07,SKU-003,Safety Gloves,PPE,CUST-002,Vale Industrial Supplies,Corporate,Midlands,United Kingdom,2,6.0
+TXN-5d600972d3,2026-10-08,SKU-003,Safety Gloves,PPE,CUST-001,Northgate Manufacturing,Corporate,South East,United Kingdom,13,5.95
+TXN-af432c7a52,2026-10-03,SKU-005,Conveyor Belt,Machinery,CUST-001,Northgate Manufacturing,Corporate,North West,United Kingdom,10,329.37
+TXN-d68e6b7675,2026-10-11,SKU-002,Copper Fitting,Hardware,CUST-001,Northgate Manufacturing,Corporate,North West,United Kingdom,12,8.8
+TXN-4edb9dfaf0,2026-10-10,SKU-002,Copper Fitting,Hardware,CUST-003,Fenwick Builders,Consumer,South East,United Kingdom,14,8.93
+TXN-17a9e84dc0,2026-10-04,SKU-005,Conveyor Belt,Machinery,CUST-002,Vale Industrial Supplies,Corporate,North West,United Kingdom,11,323.4
+TXN-dd5d32f27b,2026-10-06,SKU-002,Copper Fitting,Hardware,CUST-004,Ashcroft Engineering,Corporate,North West,United Kingdom,3,7.93
+TXN-3f3bed65e4,2026-10-01,SKU-004,Hard Hat,PPE,CUST-001,Northgate Manufacturing,Corporate,North West,United Kingdom,3,14.85
+TXN-c445215c30,2026-10-12,SKU-002,Copper Fitting,Hardware,CUST-002,Vale Industrial Supplies,Corporate,North West,United Kingdom,15,9.41
+TXN-00d2ec0e43,2026-10-03,SKU-004,Hard Hat,PPE,CUST-004,Ashcroft Engineering,Corporate,South East,United Kingdom,10,13.44
+TXN-00bfc366e1,2026-10-06,SKU-001,Steel Widget,Hardware,CUST-003,Fenwick Builders,Consumer,North West,United Kingdom,8,12.89
+TXN-a771131f5e,2026-10-12,SKU-003,Safety Gloves,PPE,CUST-001,Northgate Manufacturing,Corporate,North West,United Kingdom,15,6.59
+TXN-3058fe97eb,2026-10-01,SKU-002,Copper Fitting,Hardware,CUST-004,Ashcroft Engineering,Corporate,South East,United Kingdom,2,8.92
+TXN-b12038d60c,2026-10-06,SKU-004,Hard Hat,PPE,CUST-004,Ashcroft Engineering,Corporate,North West,United Kingdom,19,14.39
+TXN-08dca90875,2026-10-07,SKU-002,Copper Fitting,Hardware,CUST-002,Vale Industrial Supplies,Corporate,North West,United Kingdom,9,9.53
+TXN-e6cf17af09,2026-10-03,SKU-001,Steel Widget,Hardware,CUST-002,Vale Industrial Supplies,Corporate,North West,United Kingdom,6,12.69
+TXN-6db4cba3a3,2026-10-01,SKU-004,Hard Hat,PPE,CUST-001,Northgate Manufacturing,Corporate,South East,United Kingdom,1,13.12
+TXN-3a44e0afbd,2026-09-30,SKU-001,Steel Widget,Hardware,CUST-002,Vale Industrial Supplies,Corporate,North West,United Kingdom,16,13.14
+TXN-4e211c500f,2026-10-05,SKU-005,Conveyor Belt,Machinery,CUST-001,Northgate Manufacturing,Corporate,South East,United Kingdom,5,361.68
+TXN-f01247c591,2026-10-07,SKU-005,Conveyor Belt,Machinery,CUST-003,Fenwick Builders,Consumer,South East,United Kingdom,13,371.75
+TXN-874b14a740,2026-10-05,SKU-002,Copper Fitting,Hardware,CUST-002,Vale Industrial Supplies,Corporate,South East,United Kingdom,2,8.95
+TXN-d4442e9877,2026-10-03,SKU-004,Hard Hat,PPE,CUST-002,Vale Industrial Supplies,Corporate,North West,United Kingdom,9,13.81
+TXN-82218cc0b1,2026-09-30,SKU-001,Steel Widget,Hardware,CUST-003,Fenwick Builders,Consumer,North West,United Kingdom,14,13.68
+TXN-5916bcef93,2026-10-03,SKU-001,Steel Widget,Hardware,CUST-004,Ashcroft Engineering,Corporate,South East,United Kingdom,16,13.47

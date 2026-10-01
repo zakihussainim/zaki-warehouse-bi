@@ -1,0 +1,21 @@
+transaction_id,full_date,product_sku,product_name,category,customer_id,customer_name,segment,region_name,country,quantity,unit_price
+TXN-7bedbaaf3c,2026-10-19,SKU-001,Steel Widget,Hardware,CUST-003,Fenwick Builders,Consumer,Midlands,United Kingdom,20,12.93
+TXN-854624201c,2026-10-23,SKU-002,Copper Fitting,Hardware,CUST-003,Fenwick Builders,Consumer,Scotland,United Kingdom,11,9.33
+TXN-46491a37ff,2026-10-21,SKU-007,Thermal Sensor,Instrumentation,CUST-002,Vale Industrial Supplies,Corporate,Scotland,United Kingdom,9,68.6
+TXN-c720b97ebe,2026-10-22,SKU-001,Steel Widget,Hardware,CUST-003,Fenwick Builders,Consumer,Midlands,United Kingdom,1,12.4
+TXN-1b036b6720,2026-10-16,SKU-001,Steel Widget,Hardware,CUST-001,Northgate Manufacturing,Corporate,North West,United Kingdom,20,11.81
+TXN-882d04f749,2026-10-20,SKU-004,Hard Hat,PPE,CUST-005,Harbourline Logistics,Corporate,Midlands,United Kingdom,13,13.64
+TXN-8adfd83188,2026-10-15,SKU-004,Hard Hat,PPE,CUST-002,Vale Industrial Supplies,Corporate,North West,United Kingdom,18,12.88
+TXN-ab79dd20c3,2026-10-26,SKU-003,Safety Gloves,PPE,CUST-004,Ashcroft Engineering,Corporate,South East,United Kingdom,2,6.58
+TXN-9316f70a6d,2026-10-15,SKU-001,Steel Widget,Hardware,CUST-005,Harbourline Logistics,Corporate,South East,United Kingdom,19,11.53
+TXN-0f047b342d,2026-10-19,SKU-005,Conveyor Belt,Machinery,CUST-005,Harbourline Logistics,Corporate,North West,United Kingdom,10,306.12
+TXN-d147b9377c,2026-10-16,SKU-003,Safety Gloves,PPE,CUST-003,Fenwick Builders,Consumer,North West,United Kingdom,9,6.1
+TXN-1fbec9ef02,2026-10-20,SKU-004,Hard Hat,PPE,CUST-005,Harbourline Logistics,Corporate,North West,United Kingdom,17,12.93
+TXN-614f83162d,2026-10-27,SKU-003,Safety Gloves,PPE,CUST-004,Ashcroft Engineering,Corporate,Scotland,United Kingdom,2,6.7
+TXN-7a893fde9a,2026-10-19,SKU-002,Copper Fitting,Hardware,CUST-003,Fenwick Builders,Consumer,Midlands,United Kingdom,19,8.62
+TXN-c380999d13,2026-10-23,SKU-007,Thermal Sensor,Instrumentation,CUST-004,Ashcroft Engineering,Corporate,North West,United Kingdom,5,62.73
+TXN-b68b133df0,2026-10-14,SKU-007,Thermal Sensor,Instrumentation,CUST-004,Ashcroft Engineering,Corporate,South East,United Kingdom,3,67.68
+TXN-aaa0b239c3,2026-10-22,SKU-004,Hard Hat,PPE,CUST-002,Vale Industrial Supplies,Corporate,North West,United Kingdom,5,13.59
+TXN-d766472821,2026-10-22,SKU-007,Thermal Sensor,Instrumentation,CUST-001,Northgate Manufacturing,Corporate,Scotland,United Kingdom,7,64.72
+TXN-957a4ca2a0,2026-10-24,SKU-001,Steel Widget,Hardware,CUST-002,Vale Industrial Supplies,Corporate,Midlands,United Kingdom,10,13.34
+TXN-8d02886b78,2026-10-22,SKU-007,Thermal Sensor,Instrumentation,CUST-004,Ashcroft Engineering,Corporate,North West,United Kingdom,10,58.88

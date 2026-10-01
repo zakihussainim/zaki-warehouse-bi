@@ -1,0 +1,41 @@
+transaction_id,full_date,product_sku,product_name,category,customer_id,customer_name,segment,region_name,country,quantity,unit_price
+TXN-6101e7ea07,2026-10-23,SKU-003,Safety Gloves,PPE,CUST-004,Ashcroft Engineering,Corporate,South East,United Kingdom,13,6.42
+TXN-7bc19edee1,2026-11-02,SKU-005,Conveyor Belt,Machinery,CUST-001,Northgate Manufacturing,Corporate,South East,United Kingdom,18,326.6
+TXN-d31edae130,2026-10-31,SKU-004,Hard Hat,PPE,CUST-002,Vale Industrial Supplies,Corporate,Midlands,United Kingdom,7,13.82
+TXN-a55de8094f,2026-11-02,SKU-002,Copper Fitting,Hardware,CUST-002,Vale Industrial Supplies,Corporate,Midlands,United Kingdom,6,9.21
+TXN-926e494ada,2026-10-24,SKU-002,Copper Fitting,Hardware,CUST-004,Ashcroft Engineering,Corporate,Scotland,United Kingdom,8,8.69
+TXN-adf2ab54d6,2026-10-26,SKU-006,Pressure Gauge,Instrumentation,CUST-002,Vale Industrial Supplies,Corporate,South East,United Kingdom,19,45.02
+TXN-0b52fc90a0,2026-10-22,SKU-001,Steel Widget,Hardware,CUST-003,Fenwick Builders,Consumer,North West,United Kingdom,16,11.35
+TXN-aae1a5c857,2026-10-31,SKU-006,Pressure Gauge,Instrumentation,CUST-001,Northgate Manufacturing,Corporate,South East,United Kingdom,12,41.11
+TXN-8e730ed25c,2026-10-31,SKU-002,Copper Fitting,Hardware,CUST-003,Fenwick Builders,Consumer,Midlands,United Kingdom,6,8.58
+TXN-866fd7d308,2026-10-22,SKU-001,Steel Widget,Hardware,CUST-003,Fenwick Builders,Consumer,South East,United Kingdom,13,12.52
+TXN-1c872c750d,2026-10-31,SKU-007,Thermal Sensor,Instrumentation,CUST-005,Harbourline Logistics,Corporate,Scotland,United Kingdom,8,64.3
+TXN-8272803a4a,2026-10-31,SKU-001,Steel Widget,Hardware,CUST-003,Fenwick Builders,Consumer,Scotland,United Kingdom,9,11.99
+TXN-da4e4c0bd0,2026-10-25,SKU-003,Safety Gloves,PPE,CUST-001,Northgate Manufacturing,Corporate,Scotland,United Kingdom,18,6.53
+TXN-3942a20ebf,2026-10-21,SKU-001,Steel Widget,Hardware,CUST-003,Fenwick Builders,Consumer,Scotland,United Kingdom,12,13.4
+TXN-ad7742e79b,2026-10-20,SKU-005,Conveyor Belt,Machinery,CUST-005,Harbourline Logistics,Corporate,Midlands,United Kingdom,5,313.05
+TXN-00630256bc,2026-10-24,SKU-005,Conveyor Belt,Machinery,CUST-005,Harbourline Logistics,Corporate,North West,United Kingdom,7,319.25
+TXN-09f3e32235,2026-10-23,SKU-003,Safety Gloves,PPE,CUST-003,Fenwick Builders,Consumer,Midlands,United Kingdom,8,5.96
+TXN-edc742cb17,2026-10-31,SKU-007,Thermal Sensor,Instrumentation,CUST-003,Fenwick Builders,Consumer,South East,United Kingdom,11,67.78
+TXN-e39ad466e3,2026-10-22,SKU-001,Steel Widget,Hardware,CUST-004,Ashcroft Engineering,Corporate,Scotland,United Kingdom,1,12.81
+TXN-2b3593bd31,2026-10-26,SKU-007,Thermal Sensor,Instrumentation,CUST-002,Vale Industrial Supplies,Corporate,South East,United Kingdom,3,56.79
+TXN-7d9ef4b5ac,2026-10-26,SKU-007,Thermal Sensor,Instrumentation,CUST-003,Fenwick Builders,Consumer,North West,United Kingdom,6,65.59
+TXN-3a1099b2ea,2026-10-28,SKU-003,Safety Gloves,PPE,CUST-003,Fenwick Builders,Consumer,Midlands,United Kingdom,17,6.41
+TXN-b63bf6f30f,2026-10-24,SKU-005,Conveyor Belt,Machinery,CUST-001,Northgate Manufacturing,Corporate,South East,United Kingdom,14,371.99
+TXN-d931ccfbbf,2026-10-27,SKU-002,Copper Fitting,Hardware,CUST-003,Fenwick Builders,Consumer,Scotland,United Kingdom,4,8.19
+TXN-527fefe2de,2026-11-01,SKU-005,Conveyor Belt,Machinery,CUST-002,Vale Industrial Supplies,Corporate,Scotland,United Kingdom,4,310.7
+TXN-b3166e533d,2026-10-29,SKU-002,Copper Fitting,Hardware,CUST-002,Vale Industrial Supplies,Corporate,North West,United Kingdom,4,8.79
+TXN-2c05475947,2026-10-31,SKU-003,Safety Gloves,PPE,CUST-004,Ashcroft Engineering,Corporate,Midlands,United Kingdom,9,6.26
+TXN-34959a9f6d,2026-10-24,SKU-003,Safety Gloves,PPE,CUST-001,Northgate Manufacturing,Corporate,South East,United Kingdom,14,6.38
+TXN-1459b8b915,2026-10-28,SKU-004,Hard Hat,PPE,CUST-001,Northgate Manufacturing,Corporate,Midlands,United Kingdom,1,13.94
+TXN-1bd175b416,2026-10-26,SKU-001,Steel Widget,Hardware,CUST-002,Vale Industrial Supplies,Corporate,Scotland,United Kingdom,12,13.39
+TXN-37434a618f,2026-10-23,SKU-006,Pressure Gauge,Instrumentation,CUST-004,Ashcroft Engineering,Corporate,Midlands,United Kingdom,15,48.1
+TXN-f3b1d260ff,2026-10-31,SKU-005,Conveyor Belt,Machinery,CUST-004,Ashcroft Engineering,Corporate,Scotland,United Kingdom,1,344.71
+TXN-53309e3c65,2026-10-29,SKU-005,Conveyor Belt,Machinery,CUST-003,Fenwick Builders,Consumer,South East,United Kingdom,2,321.25
+TXN-592cf5dfdd,2026-10-21,SKU-007,Thermal Sensor,Instrumentation,CUST-001,Northgate Manufacturing,Corporate,South East,United Kingdom,6,65.73
+TXN-9d55955cf1,2026-10-20,SKU-004,Hard Hat,PPE,CUST-004,Ashcroft Engineering,Corporate,Midlands,United Kingdom,7,14.77
+TXN-79f9a949de,2026-10-22,SKU-002,Copper Fitting,Hardware,CUST-003,Fenwick Builders,Consumer,South East,United Kingdom,16,8.39
+TXN-b51846cf85,2026-10-30,SKU-001,Steel Widget,Hardware,CUST-005,Harbourline Logistics,Corporate,North West,United Kingdom,19,12.04
+TXN-08340f7ab8,2026-10-31,SKU-005,Conveyor Belt,Machinery,CUST-003,Fenwick Builders,Consumer,South East,United Kingdom,17,348.46
+TXN-a09adb4d97,2026-10-28,SKU-006,Pressure Gauge,Instrumentation,CUST-003,Fenwick Builders,Consumer,South East,United Kingdom,8,49.35
+TXN-2a3fd75423,2026-10-30,SKU-007,Thermal Sensor,Instrumentation,CUST-001,Northgate Manufacturing,Corporate,Scotland,United Kingdom,6,62.25

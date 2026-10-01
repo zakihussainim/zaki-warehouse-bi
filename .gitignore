@@ -1,0 +1,17 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.*
+backend.hcl
+*.tfvars
+*.tfvars.json
+crash.log
+crash.*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+build/
