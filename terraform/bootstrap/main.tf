@@ -118,6 +118,7 @@ data "aws_iam_policy_document" "github_actions_permissions" {
   "s3:GetBucketLogging",
   "s3:GetBucketLifecycleConfiguration",
   "s3:GetLifecycleConfiguration",
+  "s3:GetReplicationConfiguration",
 ]
     resources = [
       "arn:aws:s3:::zaki-warehouse-bi-*",
