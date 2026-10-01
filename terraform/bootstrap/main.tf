@@ -114,6 +114,7 @@ data "aws_iam_policy_document" "github_actions_permissions" {
   "s3:GetBucketCors",
   "s3:GetBucketWebsite",
   "s3:GetAccelerateConfiguration",
+  "s3:GetBucketRequestPayment",
 ]
     resources = [
       "arn:aws:s3:::zaki-warehouse-bi-*",
