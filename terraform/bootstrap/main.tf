@@ -110,6 +110,7 @@ data "aws_iam_policy_document" "github_actions_permissions" {
     "s3:ListBucket",
     "s3:PutBucketTagging",
     "s3:GetBucketTagging",
+    "s3:GetBucketAcl",
     ]
     resources = [
       "arn:aws:s3:::zaki-warehouse-bi-*",
